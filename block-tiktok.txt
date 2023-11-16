@@ -5,3 +5,5 @@
 ||amemv.com^
 ||dig.bdurl.net^
 ||douyin.com^
+||douyincdn.com^
+||douyinliving.com^
