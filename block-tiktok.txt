@@ -7,3 +7,4 @@
 ||douyin.com^
 ||douyincdn.com^
 ||douyinliving.com^
+||douyinvod.com^
